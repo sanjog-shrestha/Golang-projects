@@ -10,7 +10,7 @@ A collection of hands-on projects exploring five advanced IT domains, each imple
 
 | # | Domain | Repository | Status |
 |---|--------|------------|--------|
-| 1 | AI/ML Engineering & LLMOps | [llmops-go](#) | ✅ Active |
+| 1 | AI/ML Engineering & LLMOps | [llmops-go](https://github.com/sanjog-shrestha/llmops-go) | ✅ Active |
 | 2 | Cloud-Native Architecture & Platform Engineering | _coming soon_ | 🔜 Planned |
 | 3 | Offensive & Cloud Security | _coming soon_ | 🔜 Planned |
 | 4 | Distributed Systems & Data Engineering | _coming soon_ | 🔜 Planned |
@@ -22,7 +22,7 @@ A collection of hands-on projects exploring five advanced IT domains, each imple
 
 ## 1. AI/ML Engineering & LLMOps — `llmops-go` ✅
 
-**Repository:** [llmops-go](#) _(active)_
+**Repository:** [llmops-go]((https://github.com/sanjog-shrestha/llmops-go)) _(active)_
 
 Tooling and services for operating large language models in production, written in Go.
 
