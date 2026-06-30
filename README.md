@@ -37,7 +37,7 @@ Tooling and services for operating large language models in production, written 
 
 ## 2. Cloud-Native Architecture & Platform Engineering 🔜
 
-**Status:**✅ Active
+**Repository:** [cloud-native]((https://github.com/sanjog-shrestha/golang-cloud-native)) _(active)_
 
 Designing distributed, cloud-native systems and internal developer platforms.
 
