@@ -11,7 +11,7 @@ A collection of hands-on projects exploring five advanced IT domains, each imple
 | # | Domain | Repository | Status |
 |---|--------|------------|--------|
 | 1 | AI/ML Engineering & LLMOps | [llmops-go](https://github.com/sanjog-shrestha/llmops-go) | ✅ Active |
-| 2 | Cloud-Native Architecture & Platform Engineering | _coming soon_ | 🔜 Planned |
+| 2 | Cloud-Native Architecture & Platform Engineering | [cloud-native](https://github.com/sanjog-shrestha/golang-cloud-native) | ✅ Active |
 | 3 | Offensive & Cloud Security | _coming soon_ | 🔜 Planned |
 | 4 | Distributed Systems & Data Engineering | _coming soon_ | 🔜 Planned |
 | 5 | Site Reliability Engineering (SRE) | _coming soon_ | 🔜 Planned |
@@ -37,7 +37,7 @@ Tooling and services for operating large language models in production, written 
 
 ## 2. Cloud-Native Architecture & Platform Engineering 🔜
 
-**Status:** Future work.
+**Status:**✅ Active
 
 Designing distributed, cloud-native systems and internal developer platforms.
 
