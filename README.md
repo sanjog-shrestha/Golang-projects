@@ -12,7 +12,7 @@ A collection of hands-on projects exploring five advanced IT domains, each imple
 |---|--------|------------|--------|
 | 1 | AI/ML Engineering & LLMOps | [llmops-go](https://github.com/sanjog-shrestha/llmops-go) | ✅ Active |
 | 2 | Cloud-Native Architecture & Platform Engineering | [cloud-native](https://github.com/sanjog-shrestha/golang-cloud-native) | ✅ Active |
-| 3 | Offensive & Cloud Security | _coming soon_ | 🔜 Planned |
+| 3 | Cyber Security | [cyber-security](https://github.com/sanjog-shrestha/golang-cybersecurity) | ✅ Active |
 | 4 | Distributed Systems & Data Engineering | _coming soon_ | 🔜 Planned |
 | 5 | Site Reliability Engineering (SRE) | _coming soon_ | 🔜 Planned |
 
@@ -37,7 +37,7 @@ Tooling and services for operating large language models in production, written 
 
 ## 2. Cloud-Native Architecture & Platform Engineering 🔜
 
-**Repository:** [cloud-native]((https://github.com/sanjog-shrestha/golang-cloud-native)) _(active)_
+**Repository:** [cyber-security]((https://github.com/sanjog-shrestha/golang-cybersecurity)) _(active)_
 
 Designing distributed, cloud-native systems and internal developer platforms.
 
@@ -50,9 +50,9 @@ Designing distributed, cloud-native systems and internal developer platforms.
 
 ---
 
-## 3. Offensive & Cloud Security 🔜
+## 3. Cyber Security 🔜
 
-**Status:** Future work.
+**Repository:** [cloud-native]((https://github.com/sanjog-shrestha/golang-cloud-native)) _(active)_
 
 Security tooling with an emphasis on offensive techniques and cloud workload protection.
 
