@@ -13,7 +13,7 @@ A collection of hands-on projects exploring five advanced IT domains, each imple
 | 1 | AI/ML Engineering & LLMOps | [llmops-go](https://github.com/sanjog-shrestha/llmops-go) | ✅ Active |
 | 2 | Cloud-Native Architecture & Platform Engineering | [cloud-native](https://github.com/sanjog-shrestha/golang-cloud-native) | ✅ Active |
 | 3 | Cyber Security | [cyber-security](https://github.com/sanjog-shrestha/golang-cybersecurity) | ✅ Active |
-| 4 | Distributed Systems & Data Engineering | _coming soon_ | 🔜 Planned |
+| 4 | Distributed Systems & Data Engineering | [distsys](https://github.com/sanjog-shrestha/golang-distsys) | ✅ Active |
 | 5 | Site Reliability Engineering (SRE) | _coming soon_ | 🔜 Planned |
 
 > Replace the `#` link in the table and the section below with your actual GitHub URL once the repo is published (e.g. `https://github.com/<username>/llmops-go`).
@@ -37,7 +37,7 @@ Tooling and services for operating large language models in production, written 
 
 ## 2. Cloud-Native Architecture & Platform Engineering 🔜
 
-**Repository:** [cyber-security]((https://github.com/sanjog-shrestha/golang-cybersecurity)) _(active)_
+**Repository:** [cloud-native]((https://github.com/sanjog-shrestha/golang-cybersecurity)) _(active)_
 
 Designing distributed, cloud-native systems and internal developer platforms.
 
@@ -52,7 +52,7 @@ Designing distributed, cloud-native systems and internal developer platforms.
 
 ## 3. Cyber Security 🔜
 
-**Repository:** [cloud-native]((https://github.com/sanjog-shrestha/golang-cloud-native)) _(active)_
+**Repository:** [cyber-security]((https://github.com/sanjog-shrestha/golang-cloud-native)) _(active)_
 
 Security tooling with an emphasis on offensive techniques and cloud workload protection.
 
@@ -67,7 +67,7 @@ Security tooling with an emphasis on offensive techniques and cloud workload pro
 
 ## 4. Distributed Systems & Data Engineering 🔜
 
-**Status:** Future work.
+**Repository:** [dist-sys]((https://github.com/sanjog-shrestha/golang-distsys)) _(active)_
 
 High-throughput data systems and distributed-systems primitives.
 
