@@ -2,8 +2,6 @@
 
 A collection of hands-on projects exploring five advanced IT domains, each implemented in **Go** and maintained in its own repository. The goal is to build production-grade, idiomatic Go systems that demonstrate depth across modern infrastructure, data, and security engineering.
 
-> **Status:** Actively in development. Only the AI/ML Engineering & LLMOps repository is live today — the remaining four are planned future work.
-
 ---
 
 ## Repositories
